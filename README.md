@@ -1,6 +1,6 @@
 ### Hi there 👋, Christopher Munoz
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMunozCodes&show_icons=true)  
 
 I'm a Software Engineer from Florida. I <3 code!
 
