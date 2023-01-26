@@ -1,9 +1,10 @@
-### Hi there 👋, Christopher Munoz
+# Christopher Munoz
 #### Software Engineer
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMunozCodes&show_icons=true)  
 
 I'm a Software Engineer from Florida. I <3 code!
 
+## Skills and Experience
 Skills: HTML5 / CSS3 / Javascript / React / Node.js /  MongoDB / PostgreSQL / OOP / Web Accessibility
 
 - 🔭 I’m currently working on Codewars & 100Devs 
