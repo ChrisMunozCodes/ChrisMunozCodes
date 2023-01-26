@@ -1,5 +1,5 @@
 # Christopher Munoz
-#### Software Engineer
+### Software Engineer
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMunozCodes&show_icons=true)  
 
 I'm a Software Engineer from Florida. I <3 code!
