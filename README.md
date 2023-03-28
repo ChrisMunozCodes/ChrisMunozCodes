@@ -1,6 +1,5 @@
 # <div align="center">Christopher Munoz</div>
-**`I'm a full-stack software engineer from Orlando, Florida. I build full-stack web applications and responsive websites. Find out more below!`**  
-
+**`I build full-stack web applications and responsive websites. Find out more about me and my work below!`**  
 ---
 
 ### 📊 Stats
