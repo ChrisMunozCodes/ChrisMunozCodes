@@ -1,4 +1,4 @@
-# center=Christopher Munoz
+# Christopher Munoz
 
 **`Full-stack developer.`**
 
