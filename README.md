@@ -13,7 +13,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 </div>
-#
+
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)
 
