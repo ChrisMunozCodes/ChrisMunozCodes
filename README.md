@@ -1,6 +1,6 @@
 # Christopher Munoz
-### Software Engineer
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMunozCodes&show_icons=true)  
+
+**`Full-stack developer.`**
 
 I'm a full-stack software engineer from Orlando, Florida. I build full-stack web applications and responsive websites.   
 
