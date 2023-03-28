@@ -22,4 +22,8 @@ Software Engineer at 100Devs and Freelancer.
 
 #
 
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChrisMunozCodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Chrismunozcodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ChrisMunozCodes)  
