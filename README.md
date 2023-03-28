@@ -3,7 +3,7 @@
 
 <div align="center"> 🧰 Languages and Tools </div>
 
-<div align="center"> ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox) </div>
+<img align="left" ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
 
