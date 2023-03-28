@@ -36,5 +36,5 @@ Software Engineer at 100Devs and Freelancer.
 <details>
  <summary><h3>👨‍💻 Experience</h3></summary>
 dsd
-
+</details>
 #
