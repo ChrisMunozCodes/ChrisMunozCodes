@@ -32,7 +32,7 @@ Software Engineer at 100Devs and Freelancer.
  <summary><h3>👨‍💻 Project showcase.</h3></summary>
    
 #
-
+</details>
 <details>
  <summary><h3>👨‍💻 Experience</h3></summary>
 dsd
