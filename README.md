@@ -1,5 +1,5 @@
 # <div align="center">Christopher Munoz</div>
-**`I'm a full-stack software engineer from Orlando, Florida. I build full-stack web applications and responsive websites. I'm open to oppurtinities, including freelance work.`**  
+**`I'm a full-stack software engineer from Orlando, Florida. I build full-stack web applications and responsive websites.`**  
 
 ---
 
