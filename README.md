@@ -29,12 +29,12 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 </details>
 
 <details>
- <summary><h3>👨‍💻 Project showcase.</h3></summary>
+ <summary><h3>👨‍💻 Project showcase</h3></summary>
    
 #
 </details>
 
 <details>
- <summary><h3>👨‍💻 Contact.</h3></summary>
+ <summary><h3>👨‍💻 Contact</h3></summary>
 #
 </details>
