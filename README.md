@@ -1,5 +1,5 @@
 # <div align="center">Christopher Munoz</div>
-**`I build full-stack web applications and responsive websites! Get in touch, check out my work, and find out more about me below! `**  
+**`I build full-stack web applications and responsive websites! Get in touch, check out my work, and find out more about me and my experience below! `**  
 ---
 
 
