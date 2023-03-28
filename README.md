@@ -1,7 +1,6 @@
 # <div align="center">Christopher Munoz</div>
 **`I build full-stack web applications and responsive website, find out more about me and my work below!`**  
 ---
-
 ### 📊 Stats
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)
