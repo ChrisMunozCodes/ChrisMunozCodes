@@ -5,7 +5,6 @@
 I'm a full-stack software engineer from Orlando, Florida. I build full-stack web applications and responsive websites.   
 
 ## Experience
----
 Software Engineer at 100Devs and Freelancer.
 
 ### Languages and Tools
