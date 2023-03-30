@@ -32,7 +32,7 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 <details>
  <summary><h3>👨‍💻 Project showcase</h3></summary>
  <h1>📊 Quiz Tango</h1>
-During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as  Github, HTML, CSS, JavaScript, Node.js, MongoDB and React. I worked with different teams building out full-stack web applications together, building relationships and working with different people each time. Countless hours of problem solving, building, and working with peers and clients.During my time at 100Devs I found my first client as well, allowing me to expand my skill-set.
+Full-stack quiz app that tracks points, ranks, allows you to choose difficulty and topics of questions.
 
  <h1>📊 PixelVisionize</h1>
 A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
