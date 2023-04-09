@@ -34,6 +34,10 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
  <h1>📊 Quiz Tango</h1>
 Full-stack quiz app that tracks points, ranks, allows you to choose difficulty and topics of questions.
 
+ <h1>📊 100 hour project - coming soon!</h1>
+A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
+</details>
+
  <h1>📊 PixelVisionize</h1>
 A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
 </details>
