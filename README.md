@@ -44,7 +44,7 @@ A full-stack image generation tool using OpenAI's technology. Create an account,
 <details>
  <summary><h3>👨‍💻 Contact</h3></summary>
 <ul>
- <li><a>Linkedin</a></li> 
+ <li><a href="https://www.linkedin.com/in/chrismunozcodes/">Linkedin</a></li> 
  <li><a>Email</a></li> 
  <li><a>Twitter</a></li> 
 </ul>
