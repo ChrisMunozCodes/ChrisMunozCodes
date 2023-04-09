@@ -33,9 +33,6 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
  <summary><h3>👨‍💻 Project showcase</h3></summary>
  <h1>📊 Quiz Tango</h1>
 Full-stack quiz app that tracks points, ranks, allows you to choose difficulty and topics of questions.
-![quiz-tango-sample](https://user-images.githubusercontent.com/102195481/230752395-cda19c43-95c2-4c91-a962-2cffbcfd5298.gif)
-
-
 https://user-images.githubusercontent.com/102195481/230752434-9d99705d-9cb7-4bec-ab95-3970edbb8ba4.mp4
 
 
