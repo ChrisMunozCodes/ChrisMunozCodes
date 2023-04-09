@@ -33,7 +33,8 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
  <summary><h3>👨‍💻 Project showcase</h3></summary>
  <h1>📊 Quiz Tango</h1>
 Full-stack quiz app that tracks points, ranks, allows you to choose difficulty and topics of questions.
-https://gyazo.com/33c0af223a42d0efbec14628453c8a68
+![quiz-tango-sample](https://user-images.githubusercontent.com/102195481/230752395-cda19c43-95c2-4c91-a962-2cffbcfd5298.gif)
+
 
  <h1>📊 100 hour project - coming soon!</h1>
 A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
