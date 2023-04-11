@@ -31,16 +31,16 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 
 <details>
  <summary><h3>👨‍💻 Project showcase</h3></summary>
- <h1>📊 Quiz Tango</h1>
+ <h1>🧠 Quiz Tango</h1>
 Full-stack quiz app that tracks points, ranks, allows you to choose difficulty and topics of questions.
 https://user-images.githubusercontent.com/102195481/230752434-9d99705d-9cb7-4bec-ab95-3970edbb8ba4.mp4
 
- <h1>📊 Pixel Visionize</h1>
+ <h1>🧙 Pixel Visionize</h1>
 A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
 
 
- <h1>📊 100 hour project - coming soon!</h1>
-A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
+ <h1>🕵️ 100 hour project</h1>
+A secret app I will be working on, starting production soon!
 </details>
 
 <details>
