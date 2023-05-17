@@ -46,14 +46,14 @@ A secret app I will be working on, starting production soon!
 <details>
  <summary><h3>🖨 Lectures</h3></summary>
 <ul>
- <li><a href="https://www.linkedin.com/in/chrismunozcodes/">Linkedin</a></li> 
- <li><a href="https://www.twitter.com/chrismunozcodes">Twitter</a></li> 
+
 </ul>
 </details>
 
 <details>
  <summary><h3>🖨 Contact</h3></summary>
 <ul>
+  <li><a href="christopherm0507@gmail.com">Email</a></li> 
  <li><a href="https://www.linkedin.com/in/chrismunozcodes/">Linkedin</a></li> 
  <li><a href="https://www.twitter.com/chrismunozcodes">Twitter</a></li> 
 </ul>
