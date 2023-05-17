@@ -44,7 +44,7 @@ A secret app I will be working on, starting production soon!
 </details>
 
 <details>
- <summary><h3>🖨 Lectures</h3></summary>
+ <summary><h3>🎤 Lectures</h3></summary>
 <ul>
 
 </ul>
