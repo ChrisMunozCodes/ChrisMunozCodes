@@ -1,5 +1,5 @@
 # <div align="center">Christopher Munoz</div>
-*`Hello! My name is Christopher Munoz, I'm a Software Engineer who builds full-stack web applications and responsive websites! Get in touch, check out my work, find out more about me, and my learn about my experience! `*
+*Hello! My name is Christopher Munoz, I'm a Software Engineer who builds full-stack web applications and responsive websites! Get in touch, check out my work, find out more about me, and my learn about my experience! *
 ---
 
 
