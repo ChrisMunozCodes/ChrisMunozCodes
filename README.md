@@ -1,8 +1,8 @@
 # <div align="center">Christopher Munoz</div>
 
-<p>
+<h2>
 Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Bootstrap. I pride myself in being an adaptable learner, and solving problems.
-</p>
+<h2>
 ---
 
 
