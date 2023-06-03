@@ -1,5 +1,6 @@
 # <div align="center">Christopher Munoz</div>
-Hello! My name is Christopher Munoz, I'm a Software Engineer who builds full-stack web applications and responsive websites! Get in touch, check out my work, find out more about me, and my learn about my experience! 
+
+Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Bootstrap. I pride myself in being an adaptable learner, and solving problems.
 ---
 
 
