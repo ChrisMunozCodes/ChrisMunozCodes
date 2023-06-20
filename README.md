@@ -36,7 +36,7 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 Quiz Tango is a front-end application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quizzes difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60 second timer. Answer before the timer reaches 0! Rack up points for correct answer choices!
 <a href="https://ibb.co/pvN0LhB"><img src="https://i.ibb.co/C541HP3/17d91c20ed815db72f8dd0c6eee825c8.png" alt="17d91c20ed815db72f8dd0c6eee825c8" border="0"></a>
 
- <h1>🧙 Pixel Visionize</h1>
+ <h1>🧙 Git'er Done</h1>
 A full-stack image generation tool using OpenAI's technology. Create an account, generate photos with text, save them to your gallery!
 
 
