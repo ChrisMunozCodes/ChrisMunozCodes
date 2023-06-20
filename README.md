@@ -38,6 +38,7 @@ Quiz Tango is a front-end application that I built using HTML, CSS, JavaScript, 
 
  <h1>🧙 Git'er Done</h1>
 Full-Stack Pomodoro application using MVC architecture. Built this project with a team of other developers. I was responsible for building the timer component in the back-end using Node.js and MongoDB, and using the data to interact with the front-end JavaScript.
+<a href="https://ibb.co/Y3dccjB"><img src="https://i.ibb.co/Y3dccjB/062979b437f5c45508130286da0633bb-1.png" alt="062979b437f5c45508130286da0633bb-1" border="0"></a>
 
  <h1>🕵️ Sunshine Attractions</h1>
 A secret app I will be working on, starting production soon!
