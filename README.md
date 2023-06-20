@@ -47,7 +47,8 @@ A secret app I will be working on, starting production soon!
 <details>
  <summary><h3>🎤 Lectures</h3></summary>
 <ul>
-
+ <h1>🧠 MVC Archeticture </h1>
+Presentation for The Complete Guide to Utilizing MVC in your Backend Node Apps. Comes with hands on tutorial.
 </ul>
 </details>
 
