@@ -41,7 +41,7 @@ Full-Stack Pomodoro application using MVC architecture. Built this project with 
 <a href="https://ibb.co/Y3dccjB"><img src="https://i.ibb.co/W6zkkKv/062979b437f5c45508130286da0633bb-1.png" alt="062979b437f5c45508130286da0633bb-1" border="0"></a>
 
  <h1>🕵️ Sunshine Attractions</h1>
-A secret app I will be working on, starting production soon!
+A florida theme park review application.
 </details>
 
 <details>
