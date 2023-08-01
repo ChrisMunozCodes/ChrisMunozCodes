@@ -4,6 +4,14 @@
 Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Tailwind. I pride myself in being an adaptable learner, and solving problems.
 <h2>
 
+### 📊 Github Stats
+
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 ### 🛠 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -53,11 +61,3 @@ Presentation for The Complete Guide to Utilizing MVC in your Backend Node Apps. 
  <li><a href="https://www.twitter.com/chrismunozcodes">Twitter</a></li> 
 </ul>
 </details>
-
-### 📊 Github Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
-
-#
