@@ -37,7 +37,7 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 <details>
  <summary><h3>🗂 Project showcase</h3></summary>
  <h1>☀️ Sunshine Attractions</h1>
-A florida theme park review application.
+Full-stack review application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find important information to save time and help their next trip to be as enjoyable as possible.
 </details>
  
  <h1>☀️ Quiz Tango</h1>
