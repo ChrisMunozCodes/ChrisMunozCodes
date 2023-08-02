@@ -25,16 +25,6 @@ Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications
 
 #
 <details>
- <summary><h3>👨‍💻 Experience</h3></summary>
- <h1>Freelance</h1>
-I have successfully delievered fully-responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliever clean code products, and also provide maintenance and hosting.
- 
- <h1>100Devs</h1>
-During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as  Github, HTML, CSS, JavaScript, Node.js, MongoDB and React. I worked with different teams building out full-stack web application, building relationships, and working with different people each time. Countless hours of problem solving, building, and working with peers and clients. During my time at 100Devs I found my first client as well, allowing me to expand my skill-set.
-
-</details>
-
-<details>
  <summary><h3>🗂 Project showcase</h3></summary>
  <h1>☀️ Sunshine Attractions</h1>
 Full-stack review application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find important information to save time and help their next trip to be as enjoyable as possible.
@@ -49,6 +39,16 @@ Full-Stack Pomodoro application using MVC architecture. Built this project with 
 
  <h1>🧙 Pest Control Site</h1>
 Fully responsive pest control site made for a local client.
+</details>
+
+<details>
+ <summary><h3>👨‍💻 Experience</h3></summary>
+ <h1>Freelance</h1>
+I have successfully delievered fully-responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliever clean code products, and also provide maintenance and hosting.
+ 
+ <h1>100Devs</h1>
+During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as  Github, HTML, CSS, JavaScript, Node.js, MongoDB and React. I worked with different teams building out full-stack web application, building relationships, and working with different people each time. Countless hours of problem solving, building, and working with peers and clients. During my time at 100Devs I found my first client as well, allowing me to expand my skill-set.
+
 </details>
 
 <details>
