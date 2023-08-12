@@ -93,7 +93,7 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
  <h1> I created this presentation lecture for the aspiring software engineers that I am teaching, This presentation is open to anyone free to use, it covers the basics and benefits of MVC Architecture. </h1>
 </ul>
 <h3 align="center">View lecture:</h3>
-<p align="center><a href="https://docs.google.com/presentation/d/1BlLYh9dQpN0ufeBTGbT_1h7-qsdEOeNVhhsfoRrTTvI/edit?usp=sharing"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="View" /></a></p><br><br>
+<p align="center><a href="https://docs.google.com/presentation/d/1BlLYh9dQpN0ufeBTGbT_1h7-qsdEOeNVhhsfoRrTTvI/edit?usp=sharing"></a></p>
 </div>
 </details>
 
