@@ -37,11 +37,11 @@ Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a>
@@ -52,6 +52,7 @@ Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
 </div>
+
 
 
 
