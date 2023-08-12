@@ -92,9 +92,26 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 <a href="[https://ibb.co/RbQLqR5](https://docs.google.com/presentation/d/1BlLYh9dQpN0ufeBTGbT_1h7-qsdEOeNVhhsfoRrTTvI/edit#slide=id.g1e2c8aadcc4_0_2)"><img src="https://i.ibb.co/NCWwMc4/dc8c06431ef8ce44acbafb1935d43fbf.png" alt="dc8c06431ef8ce44acbafb1935d43fbf" border="0"></a>
  <h1> I created this presentation lecture for the aspiring software engineers that I am teaching, This presentation is open to anyone free to use, it covers the basics and benefits of MVC Architecture. </h1>
 </ul>
-<h3 align="center">View lecture:</h3>
-<p align="center><a href="https://docs.google.com/presentation/d/1BlLYh9dQpN0ufeBTGbT_1h7-qsdEOeNVhhsfoRrTTvI/edit?usp=sharing"></a></p>
+<div align="center">
+    <h3>View lecture</h3>
+    <p>
+        <a href="https://docs.google.com/presentation/d/1BlLYh9dQpN0ufeBTGbT_1h7-qsdEOeNVhhsfoRrTTvI/edit?usp=sharing" 
+           style="
+                display: inline-block;
+                padding: 10px 20px;
+                font-size: 16px;
+                background-color: #4CAF50;
+                color: white;
+                text-decoration: none;
+                border-radius: 5px;
+                transition: background-color 0.3s;
+           "
+        >
+            Open Lecture
+        </a>
+    </p>
 </div>
+
 </details>
 
 <details>
