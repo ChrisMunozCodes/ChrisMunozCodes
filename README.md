@@ -55,7 +55,8 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
  <summary><h3>🎤 Lectures</h3></summary>
 <ul>
  <h1>🧠 MVC Archeticture </h1>
-Presentation for The Complete Guide to Utilizing MVC in your Backend Node Apps. Comes with hands on tutorial.
+Presentation for aspiring engineers that I am mentoring: The Complete Guide to Utilizing MVC in your Backend Node Apps.
+<a href="[https://ibb.co/RbQLqR5](https://docs.google.com/presentation/d/1BlLYh9dQpN0ufeBTGbT_1h7-qsdEOeNVhhsfoRrTTvI/edit#slide=id.g1e2c8aadcc4_0_2)"><img src="https://i.ibb.co/NCWwMc4/dc8c06431ef8ce44acbafb1935d43fbf.png" alt="dc8c06431ef8ce44acbafb1935d43fbf" border="0"></a>
 </ul>
 </details>
 
