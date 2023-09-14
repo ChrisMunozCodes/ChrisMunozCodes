@@ -1,8 +1,8 @@
 # <div align="center">Christopher Munoz - Software Engineer / Web Developer</div>
 
-<h2>
-Hi! I'm Christopher, a MERN Full-Stack Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Tailwind. I pride myself in being an adaptable learner, and solving problems.
-<h2>
+<h3>
+Hi! I'm Christopher, a Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Tailwind. I pride myself on being an adaptable learner and solving problems through code.
+<h3>
 
 ### 📊 Github Stats
 
