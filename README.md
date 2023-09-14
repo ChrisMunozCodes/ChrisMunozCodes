@@ -63,11 +63,11 @@ Hi! I'm Christopher, a Software Engineer. I develop applications and websites us
 Full-stack review application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find important information to save time and help their next trip to be as enjoyable as possible.
  
  <h1>📚 Quiz Tango</h1>
-Quiz Tango is a front-end application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quizzes difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60 second timer. Answer before the timer reaches 0! Rack up points for correct answer choices!
+Quiz Tango is a front-end application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quiz difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60-second timer. Answer before the timer reaches 0! Rack up points for correct answer choices!
 <a href="https://ibb.co/pvN0LhB"><img src="https://i.ibb.co/C541HP3/17d91c20ed815db72f8dd0c6eee825c8.png" alt="17d91c20ed815db72f8dd0c6eee825c8" border="0"></a>
 
  <h1>🧙 Git'er Done</h1>
-Full-Stack Pomodoro application using MVC architecture. Built this project with a team of other developers. I was responsible for building the timer component in the back-end using Node.js and MongoDB, and using the data to interact with the front-end JavaScript.
+Full-Stack Pomodoro application using MVC architecture. Built this project with a team of other developers. I was responsible for building the timer component in the back-end using Node.js and MongoDB and using the data to interact with the front-end JavaScript.
 <a href="https://ibb.co/Y3dccjB"><img src="https://i.ibb.co/W6zkkKv/062979b437f5c45508130286da0633bb-1.png" alt="062979b437f5c45508130286da0633bb-1" border="0"></a>
 
  <h1>🧙 Pest Control Site</h1>
@@ -77,10 +77,10 @@ Fully responsive pest control site made for a local client.
 <details>
  <summary><h3>👨‍💻 Experience</h3></summary>
  <h1>Freelance</h1>
-I have successfully delievered fully-responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliever clean code products, and also provide maintenance and hosting.
+I have successfully delivered fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
  
  <h1>100Devs</h1>
-During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as  Github, HTML, CSS, JavaScript, Node.js, MongoDB and React. I worked with different teams building out full-stack web application, building relationships, and working with different people each time. Countless hours of problem solving, building, and working with peers and clients. During my time at 100Devs I found my first client as well, allowing me to expand my skill-set.
+During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as  Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
 
 </details>
 
