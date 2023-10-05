@@ -61,7 +61,7 @@ Hi! I'm Christopher, a Software Engineer. I develop applications and websites us
  <summary><h3>🗂 Project showcase</h3></summary>
  <h1>☀️ Sunshine Attractions</h1>
 Full-stack review application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find important information to save time, and help their next trip to be as enjoyable as possible.
-<a href="https://ibb.co/pvN0LhB"><img src="https://i.ibb.co/C541HP3/17d91c20ed815db72f8dd0c6eee825c8.png (https://ibb.co/9cDWPJC)" alt="17d91c20ed815db72f8dd0c6eee825c8" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9cDWPJC/1695595726684.jpg" alt="1695595726684" border="0"></a>
 
  <h1>📚 Quiz Tango</h1>
 Quiz Tango is a front-end application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quiz difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60-second timer. Answer before the timer reaches 0! Rack up points for correct answer choices!
