@@ -1,10 +1,8 @@
 # <div align="center">Christopher Munoz - Software Engineer / Web Developer</div>
 
-<div>
-    <h3>
-        Hi! I'm Christopher, a Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Tailwind. I pride myself on being an adaptable learner and solving problems through code.
-    </h3>
-</div>
+<h3>
+Hi! I'm Christopher, a Software Engineer. I develop applications and websites using technologies such as MongoDB, JavaScript, Node.js, CSS, EJS, HTML, React, and Tailwind. I pride myself on being an adaptable learner and solving problems through code.
+<h3>
 
 ### 📊 Github Stats
 
