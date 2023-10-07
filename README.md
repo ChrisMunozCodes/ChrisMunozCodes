@@ -75,6 +75,7 @@ Full-Stack Pomodoro application using MVC architecture. Built this project with 
 
  <h1>🧙 Pest Control Site</h1>
 Fully responsive pest control site made for a local client.
+<a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
 </details>
 
 <details>
