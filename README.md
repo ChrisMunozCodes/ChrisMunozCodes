@@ -10,6 +10,8 @@ Hi! I'm Christopher, a Software Engineer. I develop applications and websites us
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismunozcodes&hide_progress=true)
+
 #
 
 ### 🛠 Languages and Tools
