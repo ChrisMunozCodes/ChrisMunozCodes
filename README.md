@@ -74,11 +74,13 @@ Wish list: More PDF templates, customizeable drag and drop features.
 <a href="https://sunshine-attractions-mkbs.onrender.com/"><img src="https://i.ibb.co/x7TM83Z/0d0cb4dbf6c4eed9230adf99ffaa3faa.png" alt="0d0cb4dbf6c4eed9230adf99ffaa3faa" border="0"></a>
 
  <h1>🧙 Pest Control Site</h1>
-Fully responsive pest control site made for a local client.
+Responsive Website made for a local pest-control company. Showcasing accessability features and a working contact form. 
 <a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
 
  <h1>📚 Quiz Tango</h1>
-Quiz Tango is a front-end application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quiz difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60-second timer. Answer before the timer reaches 0! Rack up points for correct answer choices!
+Quiz Tango is a front-end web application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quiz difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60-second timer. Answer before the timer reaches 0! 
+
+Wish list: Point tracking feature, question review screen.
 <a href="https://sunshine-attractions-mkbs.onrender.com/"><img src="https://i.ibb.co/C541HP3/17d91c20ed815db72f8dd0c6eee825c8.png" alt="17d91c20ed815db72f8dd0c6eee825c8" border="0"></a>
 
  <h1>🧙 Git'er Done</h1>
@@ -89,10 +91,10 @@ Full-Stack Pomodoro application using MVC architecture. Built this project with 
 <details>
  <summary><h3>👨‍💻 Experience</h3></summary>
  <h1>Freelance</h1>
-I have successfully delivered fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
+I have successfully delivered multiple fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
  
  <h1>100Devs</h1>
-During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as  Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
+During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
 
 </details>
 
