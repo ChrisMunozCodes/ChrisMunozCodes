@@ -15,7 +15,7 @@ Hi! I'm Christopher, a Software Engineer. I develop web applications and respons
 #
 
 ### 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,react,javascript,docker,css,bootstrap,angular,mongodb,html,postgres,tailwind,PHP&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,react,javascript,docker,css,bootstrap,angular,mongodb,html,postgres,tailwind,php&perline=6)](https://skillicons.dev)
 
 
 
