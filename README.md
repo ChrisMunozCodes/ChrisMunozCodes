@@ -1,7 +1,7 @@
 # <a href="https://christophermunoz.netlify.app/" target="_blank"><div align="center">Christopher Munoz - Software Engineer / Web Developer</div></a>
 
 <p>
-Hi! I'm Christopher, a Software Engineer. I develop web applications and responsive websites using technologies such as Typescript, Node.js, MongoDB, postgreSQL, CSS, EJS, HTML, React, Angular, Vue.js, and Tailwind. I pride myself on being an adaptable learner, I perform best when thrown into the lions den!
+Hi! I'm Christopher, a Software Engineer. I develop web applications and responsive websites using technologies such as Typescript, Node.js, MongoDB, postgreSQL, CSS, EJS, HTML, PHP, React, Angular, Vue.js, and Tailwind. I pride myself on being an adaptable learner, I perform best when thrown into the lions den!
 <p>
 
 ### 📊 Github Stats
