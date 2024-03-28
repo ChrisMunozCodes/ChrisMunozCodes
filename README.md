@@ -99,8 +99,10 @@ During my time at Zonexs Pest Control I used technologies such as HTML, CSS, Jav
 <details>
  <summary><h3>🖨 Contact</h3></summary>
 <ul>
+ 
   <li><a href="christopherm0507@gmail.com">Email</a></li> 
  <li><a href="https://www.linkedin.com/in/chrismunozcodes/">Linkedin</a></li> 
  <li><a href="https://www.twitter.com/chrismunozcodes">Twitter</a></li> 
+ 
 </ul>
 </details>
