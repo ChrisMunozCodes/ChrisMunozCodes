@@ -1,6 +1,6 @@
 
 <p>
-Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications, Responsive Websites, Ecommerce Solutions, and more; using technologies such as Typescript, Node.js, MongoDB, postgreSQL, PHP, React, Vue.js, Tailwind, HTML / CSS, Woocommerce, Shopify and more.
+Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications, Responsive Websites, Ecommerce Solutions, and more; using technologies such as Typescript, Node.js, MongoDB, postgreSQL, PHP, React, Vue.js, Tailwind, HTML & CSS, Woocommerce, Shopify and more.
 <p>
 
 ### 📊 Github Stats
@@ -23,7 +23,7 @@ Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications,
 <details>
  <summary><h3>🗂 Project showcase</h3></summary>
  <a href="https://sunshine-attractions-mkbs.onrender.com/"><h1>Sunshine Attractions</h1></a>
-Full-stack review application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find vital information to save 
+Full-stack web application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find vital information to save 
 time, and support their next trip to be as enjoyable as possible.
 
 Wish list: Optimize routes based on wait time and distance using Google Maps API.
@@ -31,25 +31,11 @@ Wish list: Optimize routes based on wait time and distance using Google Maps API
 <a href="https://sunshine-attractions-mkbs.onrender.com/"><img src="https://i.ibb.co/x7TM83Z/0d0cb4dbf6c4eed9230adf99ffaa3faa.png" alt="0d0cb4dbf6c4eed9230adf99ffaa3faa" border="0"></a>
 
 <a href="https://sunshine-attractions-mkbs.onrender.com/"><h1>My CV Friend</h1></a>
-Web app that allows users to generate a resume at a click of a button! Using React.js and TypeScript, users can input fields to generate a downloadable CV in PDF format.
+Full Stack Web app that allows users to generate a resume at a click of a button! Using React.js and TypeScript, users can input fields to generate a downloadable CV in PDF format.
 
 Wish list: More PDF templates, customizeable drag and drop features.
     
 <a href="https://ibb.co/pd8gtVV"><img src="https://i.ibb.co/JH4Nf66/Screenshot-2024-01-25-at-9-27-26-AM.png" alt="Screenshot-2024-01-25-at-9-27-26-AM" border="0"></a></a>
-
- <h1>🧙 Pest Control Site</h1>
-Responsive Website made for a local pest-control company. Showcasing accessability features and a working contact form. 
-<a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
-
- <h1>📚 Quiz Tango</h1>
-Quiz Tango is a front-end web application that I built using HTML, CSS, JavaScript, and the QuizDB API. When you enter the app, you'll be prompted to choose your quiz difficulty. After that, you can choose a category to have your knowledge be tested in! After which the quiz will start with a 60-second timer. Answer before the timer reaches 0! 
-
-Wish list: Point tracking feature, question review screen.
-<a href="https://sunshine-attractions-mkbs.onrender.com/"><img src="https://i.ibb.co/C541HP3/17d91c20ed815db72f8dd0c6eee825c8.png" alt="17d91c20ed815db72f8dd0c6eee825c8" border="0"></a>
-
- <h1>🧙 Git'er Done</h1>
-Full-Stack Pomodoro application using MVC architecture. Built this project with a team of other developers. I was responsible for building the timer component in the back-end using Node.js and MongoDB and using the data to interact with the front-end JavaScript.
-<a href="https://ibb.co/Y3dccjB"><img src="https://i.ibb.co/W6zkkKv/062979b437f5c45508130286da0633bb-1.png" alt="062979b437f5c45508130286da0633bb-1" border="0"></a>
 </details>
 
 <details>
@@ -62,7 +48,7 @@ During my time at 100Devs, I had plenty of amazing opportunities, I attended a b
 
 <h1>Full Stack Developer @ Zonexs Pest Control</h1>
 During my time at Zonexs Pest Control I used technologies such as HTML, CSS, JavaScript, Node.js, and MongoDB in order to maintain websites and build out a client management system.
-
+<a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
 </details>
 
 <details>
