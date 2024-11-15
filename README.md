@@ -1,4 +1,3 @@
-# <a href="https://christophermunoz.netlify.app/" target="_blank"><div align="center">Christopher Munoz - Full Stack Engineer</div></a>
 
 <p>
 Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications, Responsive Websites, Ecommerce Solutions, and more; using technologies such as Typescript, Node.js, MongoDB, postgreSQL, PHP, React, Vue.js, Tailwind, HTML / CSS, Woocommerce, Shopify and more.
@@ -55,13 +54,13 @@ Full-Stack Pomodoro application using MVC architecture. Built this project with 
 
 <details>
  <summary><h3>👨‍💻 Experience</h3></summary>
- <h1>Web Developer @ Florida Website Solutions - Freelance</h1>
+ <h1>Full Stack Engineer @ Florida Website Solutions - Freelance</h1>
 I have successfully delivered multiple fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
  
  <h1>Software Engineer @ 100Devs</h1>
 During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
 
-<h1>IT Web Specialist @ Zonexs Pest Control</h1>
+<h1>Full Stack Developer @ Zonexs Pest Control</h1>
 During my time at Zonexs Pest Control I used technologies such as HTML, CSS, JavaScript, Node.js, and MongoDB in order to maintain websites and build out a client management system.
 
 </details>
