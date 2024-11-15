@@ -22,7 +22,7 @@ Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications,
 #
 <details>
  <summary><h3>👨‍💻 Experience</h3></summary>
- <h1>Full Stack Engineer @ Florida Website Solutions - Freelance</h1>
+ <h1>Full Stack Engineer @ Florida Website Solutions</h1>
 I have successfully delivered multiple fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
  
  <h1>Software Engineer @ 100Devs</h1>
