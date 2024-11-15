@@ -21,6 +21,19 @@ Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications,
 
 #
 <details>
+ <summary><h3>👨‍💻 Experience</h3></summary>
+ <h1>Full Stack Engineer @ Florida Website Solutions - Freelance</h1>
+I have successfully delivered multiple fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
+ 
+ <h1>Software Engineer @ 100Devs</h1>
+During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
+
+<h1>Full Stack Developer @ Zonexs Pest Control</h1>
+During my time at Zonexs Pest Control I used technologies such as HTML, CSS, JavaScript, Node.js, and MongoDB in order to maintain websites and build out a client management system.
+<a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
+</details>
+
+<details>
  <summary><h3>🗂 Project showcase</h3></summary>
  <a href="https://sunshine-attractions-mkbs.onrender.com/"><h1>Sunshine Attractions</h1></a>
 Full-stack web application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find vital information to save 
@@ -36,19 +49,6 @@ Full Stack Web app that allows users to generate a resume at a click of a button
 Wish list: More PDF templates, customizeable drag and drop features.
     
 <a href="https://ibb.co/pd8gtVV"><img src="https://i.ibb.co/JH4Nf66/Screenshot-2024-01-25-at-9-27-26-AM.png" alt="Screenshot-2024-01-25-at-9-27-26-AM" border="0"></a></a>
-</details>
-
-<details>
- <summary><h3>👨‍💻 Experience</h3></summary>
- <h1>Full Stack Engineer @ Florida Website Solutions - Freelance</h1>
-I have successfully delivered multiple fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
- 
- <h1>Software Engineer @ 100Devs</h1>
-During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
-
-<h1>Full Stack Developer @ Zonexs Pest Control</h1>
-During my time at Zonexs Pest Control I used technologies such as HTML, CSS, JavaScript, Node.js, and MongoDB in order to maintain websites and build out a client management system.
-<a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
 </details>
 
 <details>
