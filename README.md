@@ -1,6 +1,6 @@
 
 <p>
-Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications, Responsive Websites, Ecommerce Solutions, and more; using technologies such as Typescript, Node.js, MongoDB, postgreSQL, PHP, React, Vue.js, Tailwind, HTML & CSS, Woocommerce, Shopify and more.
+Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications, Responsive Websites, Ecommerce Solutions, and more; using technologies such as Typescript, Node.js, MongoDB, MysQL, PHP, React, Tailwind, HTML & CSS, Woocommerce, Shopify and more.
 <p>
 
 ### 📊 Github Stats
@@ -21,20 +21,9 @@ Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications,
 
 #
 <details>
- <summary><h3>👨‍💻 Experience</h3></summary>
- <h1>Full Stack Engineer @ Florida Website Solutions</h1>
-I have successfully delivered multiple fully responsive websites to business owners in my local area. I work closely with my clients to meet tight deadlines, deliver clean code products, and also provide maintenance and hosting.
  
- <h1>Software Engineer @ 100Devs</h1>
-During my time at 100Devs, I had plenty of amazing opportunities, I attended a bunch of seminars that fleshed out my knowledge of programming technologies such as Github, HTML, CSS, JavaScript, Node.js, MongoDB, and React. I worked with different teams building out full-stack web applications, building relationships, and working with different people each time. Countless hours of problem-solving, building, and working with peers and clients. During my time at 100Devs, I found my first client as well, allowing me to expand my skill set.
-
-<h1>Full Stack Developer @ Zonexs Pest Control</h1>
-During my time at Zonexs Pest Control I used technologies such as HTML, CSS, JavaScript, Node.js, and MongoDB in order to maintain websites and build out a client management system.
-<a href="https://ibb.co/BjVBd9t"><img src="https://i.ibb.co/VDWTrst/zonexs-website.jpg" alt="zonexs-website" border="0"></a>
-</details>
-
 <details>
- <summary><h3>🗂 Project showcase</h3></summary>
+ <summary><h3>🗂 Project Showcase</h3></summary>
  <a href="https://sunshine-attractions-mkbs.onrender.com/"><h1>Sunshine Attractions</h1></a>
 Full-stack web application for theme parks in Florida. Allowing tourists and locals to find up-to-date information on various rides, shows, and food for Florida theme parks. Includes tools to help individuals plan their trips, find vital information to save 
 time, and support their next trip to be as enjoyable as possible.
@@ -87,7 +76,6 @@ Wish list: More PDF templates, customizeable drag and drop features.
  
   <li><a href="christopherm0507@gmail.com">Email</a></li> 
  <li><a href="https://www.linkedin.com/in/chrismunozcodes/">Linkedin</a></li> 
- <li><a href="https://www.twitter.com/chrismunozcodes">Twitter</a></li> 
- 
+
 </ul>
 </details>
