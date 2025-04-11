@@ -1,6 +1,6 @@
 
 <p>
-Hi! I'm Christopher, a Full Stack Software Engineer. I develop Web Applications, Responsive Websites, Ecommerce Solutions, and more; using technologies such as Typescript, Node.js, MongoDB, MysQL, PHP, React, Tailwind, HTML & CSS, Woocommerce, Shopify and more.
+Hi, I'm Christopher. A Theme Park / Attractions enthusiast and Full Stack Developer with 4+ years of experience architecting scalable, secure web solutions for e-commerce platforms and digital products. Expert in optimizing WordPress and Shopify environments through custom PHP automation, performance engineering, and technical SEO implementations that drive measurable revenue growth and operational efficiency. Proven track record of developing innovative solutions that enhance security, reduce costs, and improve user experience.
 <p>
 
 ### 📊 Github Stats
