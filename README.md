@@ -11,13 +11,7 @@ Hi, I'm Christopher. A Theme Park / Attractions enthusiast and Full Stack Develo
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
 
-
-#
-
 </section>
-
-
-
 
 
 #
