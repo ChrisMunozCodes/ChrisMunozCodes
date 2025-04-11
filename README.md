@@ -6,6 +6,7 @@ Hi, I'm Christopher. A Theme Park / Attractions enthusiast and Full Stack Develo
 ### 📊 Github Stats
 
 <section style="display: flex;">
+ 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismunozcodes&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chrismunozcodes&theme=gruvbox&border_radius=4.5) -->
