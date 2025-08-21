@@ -1,6 +1,7 @@
 
 <p>
-Hi, I'm Christopher. A Theme Park / Attractions enthusiast and Full Stack Developer with 4+ years of experience architecting scalable, secure web solutions for e-commerce platforms and digital products. Expert in optimizing WordPress and Shopify environments through custom PHP automation, performance engineering, and technical SEO implementations that drive measurable revenue growth and operational efficiency. Proven track record of developing innovative solutions that enhance security, reduce costs, and improve user experience.
+Hi, I'm Christopher. A Theme Park / Attractions enthusiast and Full Stack Developer.
+I also started coding on Roblox for fun: https://www.youtube.com/@MultiverseDevelops
 <p>
 
 ### 📊 Github Stats
